@@ -2,14 +2,23 @@
 
 ***`QA Engineer | Test Automation | API | CI/CD`***
     
-Me chamo **Felipo Blanc**, sou do Rio de Janeiro e atuo como **Analista de Qualidade de Software**, com foco em **testes manuais e automatizados**. Tenho experiência real em projetos, e também contribuo em iniciativas sociais como QA voluntário.
+🇧🇷 Me chamo **Felipo Blanc**, sou do Rio de Janeiro e atuo como **Analista de Qualidade de Software**, com foco em **testes manuais e automatizados**. Tenho experiência real em projetos, e também contribuo em iniciativas sociais como QA voluntário.
 
 Trabalho com **testes de API, testes E2E e banco de dados**, participando ativamente da estruturação da qualidade e da entrega contínua em times ágeis (Scrum/Kanban).
 
-Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub Actions e PostgreSQL**, sempre buscando melhorar processos de qualidade através de boas práticas, documentação e automação eficiente.
+Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub Actions e SQL**, sempre buscando melhorar processos de qualidade através de boas práticas, documentação e automação eficiente.
+
 
 ---
-### 🧪 Ferramentas e Tecnologias
+
+🇬🇧 My name is **Felipo Blanc**, I’m from Rio de Janeiro (Brazil), and I work as a **Software Quality Assurance Engineer**, focused on **manual and automated testing**. I have real experience with client projects and also contribute to social initiatives as a volunteer QA.
+
+I specialize in **API testing, E2E automation, and database validations**, and I actively participate in agile teams (Scrum/Kanban), ensuring continuous delivery with strong quality practices.
+
+Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Actions, and SQL**, always looking for ways to improve QA processes through automation and documentation.
+
+---
+### 🧪 QA Stack
 
 <img 
     align="left" alt="Cypress" title="Cypress"
@@ -23,11 +32,7 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     width="30px" style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 />
-<!--<img 
-    align="left" alt="Robot Framework" title="Robot Framework"
-    width="30px" style="padding-right: 10px;" 
-    src="https://cdn.icon-icons.com/icons2/2699/PNG/512/robot_icon_167901.png"
-/>-->
+
 
 <img 
     align="left" alt="Python" title="Python"
@@ -128,5 +133,10 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
 
 ---
 
-**Obrigado por visitar meu perfil!**  
-_Se quiser trocar uma ideia sobre QA, testes automatizados ou projetos open source, me chama!_
+**Thanks for visiting my profile!**  
+_If you’d like to chat about QA, test automation, or open source projects, feel free to reach out!_
+
+---
+
+
+
