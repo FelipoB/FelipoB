@@ -45,7 +45,7 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
 <img 
-    align="left" alt="microsoftsqlserver" title="microsoftsqlserver"
+    align="left" alt="Microsoft Sql Server" title="Microsoft Sql Server"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
