@@ -45,14 +45,14 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
 />
 <img 
-    align="left" alt="PostgreSQL" title="PostgreSQL"
+    align="left" alt="microsoftsqlserver" title="microsoftsqlserver"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" alt="GitHub Actions" title="GitHub Actions"
     width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg"
+    src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 />
 <img 
     align="left" alt="Git" title="Git"
