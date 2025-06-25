@@ -1,6 +1,6 @@
 # 💻 Felipo Blanc 
 
-***`QA Engineer | Test Automation | API | CI/CD`***
+***`QA Engineer | Test Automation | API | CI/CD - Estudante de Analise e Desenvolvimento de Sitemas`***
     
 🇧🇷 Me chamo **Felipo Blanc**, sou do Rio de Janeiro e atuo como **Analista de Qualidade de Software**, com foco em **testes manuais e automatizados**. Tenho experiência real em projetos, e também contribuo em iniciativas sociais como QA voluntário.
 
@@ -133,10 +133,23 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
-**Thanks for visiting my profile!**  
-_If you’d like to chat about QA, test automation, or open source projects, feel free to reach out!_
+**- Thanks for visiting my profile!**  
+ _- If you’d like to chat about QA, test automation, or open source projects, feel free to reach out!_
 
 ---
+### 📺 Interview YouTube Videos
+
+<!-- BEGIN YOUTUBE-CARDS -->
+[![Calma, as IAs não vão acabar com a área de QA!](https://ytcards.demolab.com/?id=NHQfaoJAWRc&title=As+IAs+NÃO+vão+acabar+com+a+área+de+QA%21&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/NHQfaoJAWRc)
+[![As IAs ajudam ou atrapalham os QAs?](https://ytcards.demolab.com/?id=h-X95PxCSaM&title=As+IAs+ajudam+ou+atrapalham+os+QAs%3F&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/h-X95PxCSaM)
+[![Não caia nessa armadilha que prejudica muitos QAs!](https://ytcards.demolab.com/?id=yS4HCDK2e2Q&title=Armadilha+que+prejudica+muitos+QAs%21&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/yS4HCDK2e2Q)
+[![Esse é um dos diferenciais da área de QA](https://ytcards.demolab.com/?id=TbOaxo32F0o&title=Um+dos+diferenciais+da+área+de+QA&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/TbOaxo32F0o)
+[![A metodologia faz toda a DIFERENÇA](https://ytcards.demolab.com/?id=FSYelVjeKxA&title=A+metodologia+faz+diferença+na+qualidade&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/FSYelVjeKxA)
+[![Essa atitude faz muita diferença na vida do QA](https://ytcards.demolab.com/?id=GyMH3yr3t3Y&title=Essa+atitude+faz+diferenca+na+vida+do+QA&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/GyMH3yr3t3Y)
+[![É sua bagagem de vida que te transforma em um QA melhor!](https://ytcards.demolab.com/?id=gaWWhqaj1T4&title=Sua+bagagem+de+vida+te+torna+um+QA+melhor&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/gaWWhqaj1T4)
+[![Vale a pena migrar para a área de QA?](https://ytcards.demolab.com/?id=LAOU2Y47UKM&title=Vale+a+pena+migrar+para+a+área+de+QA%3F&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/LAOU2Y47UKM)
+[![Olha essa dica para o QA que está cansado de estudar!](https://ytcards.demolab.com/?id=Q0hB6RNDAsA&title=Dica+para+QA+cansado+de+estudar%21&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/Q0hB6RNDAsA)
+<!-- END YOUTUBE-CARDS -->
 
 
 
