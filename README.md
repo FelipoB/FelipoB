@@ -169,5 +169,10 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 [![Olha essa dica para o QA que está cansado de estudar!](https://ytcards.demolab.com/?id=Q0hB6RNDAsA&title=Dica+para+QA+cansado+de+estudar%21&lang=pt&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=2&width=250&border_radius=5&duration=60)](https://www.youtube.com/shorts/Q0hB6RNDAsA)
 <!-- END YOUTUBE-CARDS -->
 
+---
+
+### 🎥 Live: Ele migrou da Engenharia Elétrica para QA | Jornada do QA #07
+
+[![Assistir no YouTube](https://img.youtube.com/vi/drAf2oG9qKk/hqdefault.jpg)](https://www.youtube.com/watch?v=drAf2oG9qKk)
 
 
