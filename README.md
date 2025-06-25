@@ -55,6 +55,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
+    align="left" alt="DBeaver" title="DBeaver"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/dbeaver/dbeaver-original.svg" 
+/>
+<img 
     align="left" alt="GitHub Actions" title="GitHub Actions"
     width="30px" style="padding-right: 10px;" 
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
