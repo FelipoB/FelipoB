@@ -80,7 +80,7 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
-### 📈 Estatísticas GitHub
+### 📈 Stats GitHub
 
 <!-- Este é um comentário invisível no README.md -->
 
@@ -103,7 +103,7 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
-### 📬 Contato
+### 📬 My Contacts
 <p align="left">
   <a href="mailto:felipoblanc@gmail.com" target="_blank">
     <img 
