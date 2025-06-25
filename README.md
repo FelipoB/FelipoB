@@ -32,8 +32,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     width="30px" style="padding-right: 10px;" 
     src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"
 />
-
-
+<img 
+    align="left" alt="Swagger" title="Swagger"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg"
+/>
 <img 
     align="left" alt="Python" title="Python"
     width="30px" style="padding-right: 10px;" 
