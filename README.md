@@ -70,6 +70,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
 />
 <img 
+    align="left" alt="BitBucket" title="BitBucket"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"
+/>
+<img 
     align="left" alt="Figma" title="Figma"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
