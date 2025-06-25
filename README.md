@@ -28,6 +28,7 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.icon-icons.com/icons2/2699/PNG/512/robot_icon_167901.png"
 />-->
+
 <img 
     align="left" alt="Python" title="Python"
     width="30px" style="padding-right: 10px;" 
@@ -42,6 +43,11 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     align="left" alt="PostgreSQL" title="PostgreSQL"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+/>
+<img 
+    align="left" alt="PostgreSQL" title="PostgreSQL"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" 
 />
 <img 
     align="left" alt="GitHub Actions" title="GitHub Actions"
@@ -112,8 +118,6 @@ Atualmente, utilizo ferramentas como **Cypress, Postman, Robot Framework, GitHub
     />
   </a>
 </p>
-
-
 
 ---
 
