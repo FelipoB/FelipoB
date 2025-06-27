@@ -112,20 +112,18 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api?username=felipob&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
-    height="200" 
+    height="180" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipob&layout=compact&theme=tokyonight&langs_count=6" 
   />
 </p>
 
-<br/><br/>
-<br/><br/>
 <br/><br/>
 <br/><br/>
 <br/><br/>
