@@ -108,13 +108,13 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 <!-- Este é um comentário invisível no README.md -->
 
 
-<!--<p>
+<p>
   <img 
     align="left" 
     alt="GitHub Stats" 
     height="200" 
     src="https://github-readme-stats.vercel.app/api?username=felipob&show_icons=true&theme=tokyonight&locale=pt-br" 
-  />-->
+  />
 
   <img 
     align="left" 
