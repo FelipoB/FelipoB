@@ -182,8 +182,32 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
-### 🎥 Live: Ele migrou da Engenharia Elétrica para QA | Jornada do QA #07
+<!--### 🎥 Live: Ele migrou da Engenharia Elétrica para QA | Jornada do QA #07
 
-[![Assistir no YouTube](https://img.youtube.com/vi/drAf2oG9qKk/hqdefault.jpg)](https://www.youtube.com/watch?v=drAf2oG9qKk)
+[![Assistir no YouTube](https://img.youtube.com/vi/drAf2oG9qKk/hqdefault.jpg)](https://www.youtube.com/watch?v=drAf2oG9qKk)-->
+
+## 📂 Documentação e Fundamentos
+
+### 📁 Fundamentos
+- [principios-teste.md](./fundamentos/principios-teste.md) – Princípios fundamentais dos testes de software  
+- [niveis-tipos-teste.md](./fundamentos/niveis-tipos-teste.md) – Níveis e tipos de testes  
+- [tecnicas-design-teste.md](./fundamentos/tecnicas-design-teste.md) – Técnicas de design de casos de teste  
+- [metodologias-ageis.md](./fundamentos/metodologias-ageis.md) – Qualidade e testes em metodologias ágeis  
+
+### 📁 Processos
+- [ciclo-vida-teste.md](./processos/ciclo-vida-teste.md) – Ciclo de vida dos testes  
+- [gestao-defeitos.md](./processos/gestao-defeitos.md) – Processo de gestão de defeitos  
+- [estrategia-teste.md](./processos/estrategia-teste.md) – Estratégia de teste para projetos  
+
+### 📁 Templates
+- [template-test-case.md](./templates/template-test-case.md) – Template de caso de teste  
+- [template-bug-report.md](./templates/template-bug-report.md) – Template de bug report  
+- [template-test-plan.md](./templates/template-test-plan.md) – Template de plano de testes  
+
+### 📁 Métricas
+- [kpis-qualidade.md](./metricas/kpis-qualidade.md) – Indicadores de qualidade e cobertura  
+- [relatorios-exemplo.md](./metricas/relatorios-exemplo.md) – Exemplos de relatórios e dashboards  
+
+---
 
 
