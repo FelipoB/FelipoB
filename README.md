@@ -1,4 +1,4 @@
-# 💻 Felipo Blanc 
+# 💻 Felipo Blanc. 
 
 ***`QA Engineer | Test Automation | API | CI/CD - Estudante de Analise e Desenvolvimento de Sitemas`***
     
