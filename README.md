@@ -83,6 +83,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bitbucket/bitbucket-original.svg"
 />
 <img 
+    align="left" alt="Confluence" title="Confluence"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/confluence/confluence-original.svg"
+/>
+<img 
     align="left" alt="Trello" title="Trello"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/trello/trello-original.svg"
