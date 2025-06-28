@@ -112,14 +112,14 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
   <img 
     align="left" 
     alt="GitHub Stats" 
-    height="180" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api?username=felipob&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
-    height="180" 
+    height="170" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipob&layout=compact&theme=tokyonight&langs_count=6" 
   />
 </p>
@@ -209,5 +209,44 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 - [relatorios-exemplo.md](./metricas/relatorios-exemplo.md) – Exemplos de relatórios e dashboards  
 
 ---
+<!--Projetos em Destaque (Foco em QA)
+
+Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
+
+•
+[Nome do Projeto de Automação Web com Cypress](Link para o repositório):
+
+•
+Descrição: Conjunto de testes E2E automatizados para uma aplicação web, utilizando Cypress. Demonstra a criação de cenários de teste complexos, uso de fixtures e integração com CI/CD.
+
+•
+Resultados: Contribuiu para a redução de X% no tempo de execução de testes de regressão e identificação precoce de Y bugs críticos.
+
+
+
+•
+[Nome do Projeto de Testes de API com Postman/Python](Link para o repositório):
+
+•
+Descrição: Automação de testes para APIs RESTful, utilizando Postman para validações básicas e scripts Python para cenários mais avançados e integração com frameworks de teste.
+
+•
+Resultados: Garantiu a estabilidade da API em Z% das integrações, minimizando falhas em ambientes de produção.
+
+
+
+•
+[Nome do Projeto de Validação de Banco de Dados com SQL/Robot Framework](Link para o repositório):
+
+•
+Descrição: Testes de validação de dados em bancos de dados relacionais, utilizando SQL para consultas complexas e Robot Framework para orquestração dos testes e geração de relatórios.
+
+•
+Resultados: Assegurou a integridade dos dados em W% das transações críticas, prevenindo inconsistências e erros de negócio.
+
+
+
+Observação: Os links acima são placeholders. Por favor, substitua-os pelos links reais dos seus repositórios e preencha os resultados quantitativos (X%, Y, Z%, W%) com dados reais dos seus projetos. -->
+
 
 
