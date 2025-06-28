@@ -182,9 +182,17 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
+## 💡Projetos em Destaque 
+
+Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
+
+- [Automation-cypress](https://github.com/FelipoB/Automation-Cypress) Descrição: Conjunto de testes E2E automatizados para uma aplicação web, utilizando Cypress. Demonstra a criação de cenários de teste complexos, uso de fixtures e integração com CI/CD. Resultados: Contribuiu para a redução de 80% no tempo de execução de testes de regressão e identificação precoce de 14 bugs críticos.
+
 <!--### 🎥 Live: Ele migrou da Engenharia Elétrica para QA | Jornada do QA #07
 
 [![Assistir no YouTube](https://img.youtube.com/vi/drAf2oG9qKk/hqdefault.jpg)](https://www.youtube.com/watch?v=drAf2oG9qKk)-->
+
+---
 
 ## 📂 Documentação e Fundamentos
 
@@ -209,21 +217,10 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 - [relatorios-exemplo.md](./metricas/relatorios-exemplo.md) – Exemplos de relatórios e dashboards  
 
 ---
-<!--Projetos em Destaque (Foco em QA)
-
-Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
-
-•
-[Nome do Projeto de Automação Web com Cypress](Link para o repositório):
-
-•
-Descrição: Conjunto de testes E2E automatizados para uma aplicação web, utilizando Cypress. Demonstra a criação de cenários de teste complexos, uso de fixtures e integração com CI/CD.
-
-•
-Resultados: Contribuiu para a redução de X% no tempo de execução de testes de regressão e identificação precoce de Y bugs críticos.
 
 
 
+<!--
 •
 [Nome do Projeto de Testes de API com Postman/Python](Link para o repositório):
 
