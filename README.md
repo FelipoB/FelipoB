@@ -186,7 +186,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 Aqui você encontrará exemplos práticos do meu trabalho em Quality Assurance, incluindo automação de testes, validações de API e banco de dados, e implementação de CI/CD. Cada projeto demonstra minhas habilidades técnicas e minha abordagem para garantir a qualidade do software.
 
-- [Automation-cypress](https://github.com/FelipoB/Automation-Cypress) Descrição: Conjunto de testes E2E automatizados para uma aplicação web, utilizando Cypress. Demonstra a criação de cenários de teste complexos, uso de fixtures e integração com CI/CD. Resultados: Contribuiu para a redução de 80% no tempo de execução de testes de regressão e identificação precoce de 14 bugs críticos.
+- [Automation-cypress](https://github.com/FelipoB/Automation-Cypress)
+
+Descrição: Conjunto de testes E2E automatizados para uma aplicação web, utilizando Cypress. Demonstra a criação de cenários de teste complexos, uso de fixtures e integração com CI/CD. 
+
+Resultados: Contribuiu para a redução de 80% no tempo de execução de testes de regressão e identificação precoce de 14 bugs críticos.
 
 <!--### 🎥 Live: Ele migrou da Engenharia Elétrica para QA | Jornada do QA #07
 
