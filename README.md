@@ -57,6 +57,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"
 />
 <img 
+    align="left" alt="JavaScript" title="TypeScript"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg"
+/>
+<img 
     align="left" alt="PostgreSQL" title="PostgreSQL"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
