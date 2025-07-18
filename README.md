@@ -30,7 +30,11 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
 />
-
+<img 
+    align="left" alt="Cypress" title="Playwright"
+    width="30px" style="padding-right: 10px;" 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/playwright/playwright-original.svg" 
+/>
 
 <img 
     align="left" alt="Postman" title="Postman"
