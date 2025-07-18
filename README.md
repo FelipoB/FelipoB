@@ -82,11 +82,6 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png"
 />
 <img 
-    align="left" alt="Git" title="Git"
-    width="30px" style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-/>
-<img 
     align="left" alt="Jira" title="Jira"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg"
