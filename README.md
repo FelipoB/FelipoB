@@ -25,7 +25,7 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 ---
 ### 🧪 QA Stack
 
-<img 
+<!--<img 
     align="left" alt="Cypress" title="Cypress"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
@@ -106,6 +106,45 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />
+<br/>
+<br/> -->
+
+**Testing:**  
+![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
+![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
+![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=for-the-badge)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Playwright](https://img.shields.io/badge/Playwright-1B7F37?style=for-the-badge&logo=playwright&logoColor=white)
+<!--![Capybara](https://img.shields.io/badge/Capybara-7D4698?style=for-the-badge)-->
+<!--![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6D6D6D?style=for-the-badge)-->
+<!--![Appium](https://img.shields.io/badge/Appium-8CC63F?style=for-the-badge&logo=appium&logoColor=white)-->
+
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+<!--![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)-->
+
+**Frameworks, Platforms and Libraries:**  
+![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
+![Gherkin](https://img.shields.io/badge/Gherkin-5CDA6B?style=for-the-badge)
+
+**Project:**  
+![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0079BF?style=for-the-badge&logo=trello&logoColor=white)
+
+**Design:**  
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+
+**DB:**  
+![Postgres](https://img.shields.io/badge/Postgres-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Versioning & CI/CD:**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 <br/>
 <br/>
