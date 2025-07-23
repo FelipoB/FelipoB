@@ -25,7 +25,7 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 ---
 ### 🧪 QA Stack
 
-<!--<img 
+<img 
     align="left" alt="Cypress" title="Cypress"
     width="30px" style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cypressio/cypressio-original.svg" 
@@ -107,9 +107,9 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg"
 />
 <br/>
-<br/> -->
+<br/> 
 
-**Testing:**  
+<!--**Testing:**  
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=selenium&logoColor=white)
 ![Robot Framework](https://img.shields.io/badge/Robot_Framework-grey?style=for-the-badge)
@@ -117,13 +117,13 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 ![Playwright](https://img.shields.io/badge/Playwright-1B7F37?style=for-the-badge&logo=playwright&logoColor=white)
 <!--![Capybara](https://img.shields.io/badge/Capybara-7D4698?style=for-the-badge)-->
 <!--![Rest Assured](https://img.shields.io/badge/Rest%20Assured-6D6D6D?style=for-the-badge)-->
-<!--![Appium](https://img.shields.io/badge/Appium-8CC63F?style=for-the-badge&logo=appium&logoColor=white)-->
+<!--![Appium](https://img.shields.io/badge/Appium-8CC63F?style=for-the-badge&logo=appium&logoColor=white)
 
 **Languages:**  
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-<!--![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
-![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)-->
+![Java](https://img.shields.io/badge/Java-F80000?style=for-the-badge&logo=java&logoColor=white)
+![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white)
 
 **Frameworks, Platforms and Libraries:**  
 ![Cucumber](https://img.shields.io/badge/Cucumber-23D96C?style=for-the-badge&logo=cucumber&logoColor=white)
@@ -144,10 +144,7 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 **Versioning & CI/CD:**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-<br/>
-<br/>
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)-->
 
 ---
 
