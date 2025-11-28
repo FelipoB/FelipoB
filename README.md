@@ -158,14 +158,14 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
     align="left" 
     alt="GitHub Stats" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api?username=felipob&show_icons=true&theme=tokyonight&locale=pt-br" 
+    src="https://github-readme-stats.vercel.app/api?username=FelipoB&show_icons=true&theme=tokyonight&locale=pt-br" 
   />
 
   <img 
     align="left" 
     alt="Top Langs" 
     height="170" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipob&layout=compact&theme=tokyonight&langs_count=6" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipoB&layout=compact&theme=tokyonight&langs_count=6" 
   />
 </p>
 
