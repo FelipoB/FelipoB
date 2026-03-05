@@ -148,66 +148,6 @@ Currently, I work with tools like **Cypress, Postman, Robot Framework, GitHub Ac
 
 ---
 
-### 📈 Stats GitHub
-
-<!-- Este é um comentário invisível no README.md -->
-
-
-<p>
-  <img 
-    align="left" 
-    alt="GitHub Stats" 
-    height="200" 
-    style="padding-right: 10px;" 
-    src="https://github-readme-stats.vercel.app/api?username=felipo_blanc&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
-  />
-
-<img 
-      align="left" 
-      alt="GitHub Stats" 
-      height="200" 
-      src="https://github-readme-stats.vercel.app/api/top-langs/?username=felipob&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
-  />
-
-</p>
-
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-<br/><br/>
-
-
----
-
-<!--### 📬 My Contacts
-<p align="left">
-  <a href="mailto:felipoblanc@gmail.com" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Email-felipoblanc@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white" 
-      alt="E-mail"
-    />
-  </a> <a href="https://www.instagram.com/felipo.o" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/Instagram-@Felipo.o-purple?style=for-the-badge&logo=instagram&logoColor=white" 
-      alt="Instagram"
-    />
-      </a>  </a> 
-    <a 
-  href="https://www.linkedin.com/in/felipoblanc/" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" 
-      alt="LinkedIn"
-    />
-  </a>
-    </a> <a href="https://github.com/FelipoB" target="_blank">
-    <img 
-      src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" 
-      alt="GitHub"
-    />
-  </a>
-</p> -->
-
 **- Thanks for visiting my profile!**  
  _- If you’d like to chat about QA, test automation, or open source projects, feel free to reach out!_
 
@@ -267,10 +207,6 @@ Resultados: Contribuiu para a redução de 80% no tempo de execução de testes 
 - [relatorios-exemplo.md](./metricas/relatorios-exemplo.md) – Exemplos de relatórios e dashboards  
 
 ---
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=FelipoB&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
 
 
 <!--
